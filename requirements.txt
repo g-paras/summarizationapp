@@ -1,0 +1,2 @@
+streamlit==0.73.1
+gensim==3.8.3
